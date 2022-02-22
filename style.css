@@ -1,0 +1,126 @@
+body {
+    font-family: sans-serif;
+    background: 
+    url("https://2ch.hk/stickers/TjeIYJdJ/tcs6L30B_thumb.png") no-repeat 90% 5%,
+    url("https://2ch.hk/stickers/TjeIYJdJ/tcs6L30B_thumb.png") no-repeat 20% 15%,
+    url("https://2ch.hk/stickers/TjeIYJdJ/tcs6L30B_thumb.png") no-repeat 70% 50%
+}
+header {
+    background-color: orange;
+    padding: 20px;
+    Font-family: Roboto;
+    Font-size: 48px;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+h1 {
+    text-align: center;
+    color: red
+}
+img {
+    height: 250px;
+}
+.Jonatan {
+    width: 250px;
+    float: left;
+    border: 7px solid #086CA2;
+    border-radius: 10px;
+    background-color: #5FBDCE;
+    padding: 10px;
+    margin: 25px;
+    text-align: left;
+    height: 480px;
+}
+.Jonatan p{
+    text-align: center;
+    color: #034769;
+    font-size: 17px
+}
+
+.Joseph {
+    width: 250px;
+    float: left;
+    border: 7px solid #FF0000;
+    border-radius: 10px;
+    background-color: #FF7673;
+    padding: 10px;
+    margin: 25px;
+    height: 480px;
+}
+.Joseph p{
+    text-align: center;
+    color: #A60400;
+    font-size: 17px
+}
+.Jotaro {
+    width: 250px;
+    float: left;
+    border: 7px solid #848484;
+    border-radius: 10px;
+    background-color: #A9A9A9;
+    padding: 10px;
+    margin: 25px;
+    height: 480px;
+}
+.Jotaro p{
+    text-align: center;
+    font-size: 17px
+}
+.Josuke {
+    width: 250px;
+    float: left;
+    border: 7px solid #A438F9;
+    border-radius: 10px;
+    background-color: #DAADF3;
+    padding: 10px;
+    margin: 25px;
+    height: 480px;
+}
+.Josuke p{
+    text-align: center;
+    color: #9000ff;
+    font-size: 17px
+}
+.Giorno {
+    width: 250px;
+    float: left;
+    border: 7px solid #FF7400;
+    border-radius: 10px;
+    background-color: #ffc08d;
+    padding: 10px;
+    margin: 25px;
+    height: 480px;
+}
+.Giorno p{
+    text-align: center;
+    color: #FF7400;
+    font-size: 17px
+}
+.Jolyne {
+    width: 250px;
+    float: left;
+    border: 7px solid #27F806;
+    border-radius: 10px;
+    background-color: #beffb5;
+    padding: 10px;
+    margin: 25px;
+    height: 480px;
+}
+.Jolyne p{
+    text-align: center;
+    color: #1ac500;
+    font-size: 17px
+}
+footer {
+    font-size: 25px;
+    color: black;
+    background-color: #FF7400;
+    padding: 20px;
+}
+.all {
+    height: 1200px;
+    width: 1300px;
+}
