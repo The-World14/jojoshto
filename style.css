@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+    color: purple;
+}
+
+header {
+    background-color: #FF7400;
+    padding: 20px;
+    Font-family: Roboto;
+    Font-size: 48px;
+    text-align: center;
+}
+
+.v {
+    text-align: left; 
+    font-family: Roboto;
+    font-size: 25px;
+    color: purple;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+img {
+    height: 300px;
+    width: 500px;
+}
+.bo {
+    text-align: left; 
+    font-family: Roboto;
+    font-size: 25px;
+    color: purple;
+}
+footer {
+    font-size: 25px;
+    color: black;
+    background-color: #FF7400;
+}
