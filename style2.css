@@ -5,7 +5,7 @@ body {
     url("https://2ch.hk/stickers/TjeIYJdJ/tcs6L30B_thumb.png") no-repeat 20% 15%,
     url("https://2ch.hk/stickers/TjeIYJdJ/tcs6L30B_thumb.png") no-repeat 70% 50%
 }
-head {
+header {
     background-color: #FF7400;
     padding: 20px;
     Font-family: Roboto;
