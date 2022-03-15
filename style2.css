@@ -120,6 +120,6 @@ footer {
     background-color: #FF7400;
 }
 .all {
-    height: 1200px;
-    width: 1670px;
+    display: flex;
+    flex-wrap: wrap;
 }
